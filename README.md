@@ -1,2 +1,2 @@
-# Practica-2.6
-Practica grupal.
+# Pajarracos web
+Web donde se muestran varios pajaros
