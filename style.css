@@ -1,1 +1,51 @@
-
+body {
+			background-image: url("ArchivosMM/PaisajeBosque1.jpg"), url("ArchivosMMPractica4/PaisajeBosque1.jpg");
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-position: center;
+		}
+		span{
+			background-color: rgba(0,0,0,0.7);
+			color: lightgrey;
+		}
+		.audioEnlace{
+			text-align: center;
+			font-size: 23px;
+			padding-top: 40px;
+			position: static;
+			width: 100%;
+			height: auto;
+			clear: both;
+		}
+		.textoCuco {
+			text-align: center;
+			font-size: 23px;
+			position: static;
+			float: right;
+			padding-right: 30px;
+			width: 42%;
+			height: auto;
+		}
+		.videoCuco {
+			padding-left: 20px;
+			position: static;
+			float: left;
+			width: 40%; 
+			height: auto;
+		}
+		.textoCrialo {
+			text-align: center;
+			font-size: 23px;
+			position: static;
+			float: left;
+			padding-left: 30px;
+			width: 42%;
+			height: auto;
+		}
+		.videoCrialo {
+			padding-right: 20px;
+			position: static;
+			float: right;
+			width: 40%; 
+			height: auto;
+		}
