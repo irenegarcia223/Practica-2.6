@@ -1,2 +1,2 @@
-# Practica 2.6
+# Pajaros web
 Web donde se muestran varios pajaros
