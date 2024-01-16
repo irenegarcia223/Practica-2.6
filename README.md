@@ -1,2 +1,2 @@
 # Pajaros web
-Web donde se muestran varios pajaros
+Web donde se muestran varios pajaros.
